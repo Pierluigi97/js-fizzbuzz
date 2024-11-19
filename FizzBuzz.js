@@ -21,11 +21,11 @@ for (let i = 1; i <= 100; i++){
 
      console.log("FizzBuzz");
 
-    } else if (i % 3 ===0) { // numeri divisibili solo per 3
+    } else if (i % 3 === 0) { // numeri divisibili solo per 3
 
         console.log("Fizz");
         
-    } else if (i % 5 ===0) { // numeri divisibili solo per 5
+    } else if (i % 5 === 0) { // numeri divisibili solo per 5
         console.log("Buzz");
         
     } else {      // numeri non divisibili per multipli di 3 e 5 e per quelli solo per 3 e 5
