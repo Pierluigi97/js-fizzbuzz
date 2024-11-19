@@ -10,4 +10,16 @@ Come faccio a sapere se un numero è divisibile per?
 
 Abbiamo visto qualcosa di particolare che possiamo usare?
 
+1.Stampo i numeri da 1 a 100 con un ciclo for
+
 */
+
+for (let i = 1; i <= 100; i++){
+
+    console.log(i);
+
+     
+    
+
+}
+
